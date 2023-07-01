@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Website do Violinista</title>
+</head>
+<body>
+  <header>
+    <h1>Violinista para Eventos</h1>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>Sobre</h2>
+      <p>Adicione informações sobre o violinista aqui.</p>
+    </section>
+
+    <section id="services">
+      <h2>Serviços</h2>
+      <ul>
+        <li>Serviço 1</li>
+        <li>Serviço 2</li>
+        <li>Serviço 3</li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Contato</h2>
+      <p>Adicione informações de contato aqui.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2022 Violinista para Eventos</p>
+  </footer>
+</body>
+</html>
